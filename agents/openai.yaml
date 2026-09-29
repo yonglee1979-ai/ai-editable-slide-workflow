@@ -1,0 +1,5 @@
+
+interface:
+  display_name: "可编辑幻灯制作专家"
+  short_description: "将 AI 视觉稿重建为可编辑 PPT，并核验内容与版面"
+  default_prompt: "Use $ai-editable-slide-workflow to create an editable PowerPoint from my source material."
